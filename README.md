@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aman Sharma
-- 👀 I’m interested in making Money
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Everything
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on any cool Project
-- 📫 How to reach me .........
+- 📫 how to reach me.....
 
 <!---
 itsamansharma/itsamansharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
